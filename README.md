@@ -40,6 +40,7 @@ It is possible for the mod download to fail. If this is the case, try closing th
 ### Issues
 Don't change the page or use the search feature while a mod is downloading. 
 If you cancel a download, the file still remains, so your game will likely give an Invalid ZIP error because it is not complete. Do the download again and it should overwrite that file, or delete it if you don't want that mod.
+Some layout issues. Just a skill issue on my part.
 
 Contact me on Discord if you are experiencing any functionality issues: localhost#3302
 
