@@ -1,7 +1,7 @@
 # Joeski's Mod Downloader
 Not a BeamNG.drive Modland Downloader
 
-![downloader](https://github.com/JoeskiG/lodmand-downloader/assets/115059273/65d7c3d5-504f-4601-b610-405437f48c18 | width="200")
+<img src="https://github.com/JoeskiG/lodmand-downloader/assets/115059273/65d7c3d5-504f-4601-b610-405437f48c18" width="200" height="200">
 
 
 ### What is it?
