@@ -15,7 +15,7 @@ If I feel like it I guess...
 
 # How to use the software
 ### 1. Download it
-Go to this link to download: ![url](https://github.com/JoeskiG/lodmand-downloader/releases/latest/joeski_mod_downloader.exe)
+Go to this link to download: ![url](https://github.com/JoeskiG/lodmand-downloader/releases/latest)
 Then, open it.
 
 ### 2. Set up game mods folder
