@@ -33,7 +33,7 @@ After loading, it should show a list of files that the mod has available for dow
 Now, all you have to do is click Download on the file of the mod you want to download and it should start downloading. Once finished, the download button should turn green. The mod should then appear in the mods folder you set before.
 ![image](https://github.com/JoeskiG/lodmand-downloader/assets/115059273/f1fdbc55-b1c3-464b-ade6-ef40c9a041e0)
 
-It is possible for the mod download to fail. If this is the case, try closing the app and opening it again and downloading again. If that doesn't work, contact me on Discord: localhost#3302
+It is possible for the mod download to fail. If this is the case, try closing the app and opening it again and downloading again. If that doesn't work, create an issue in the Issues tab of this repository.
 
 
 
@@ -42,7 +42,7 @@ Don't change the page or use the search feature while a mod is downloading.
 If you cancel a download, the file still remains, so your game will likely give an Invalid ZIP error because it is not complete. Do the download again and it should overwrite that file, or delete it if you don't want that mod.
 Some layout issues. Just a skill issue on my part.
 
-Contact me on Discord if you are experiencing any functionality issues: localhost#3302
+Create an issue in the Issues tab of this repository if you encounter any functionality issues that are not listed above.
 
 
 
