@@ -44,7 +44,7 @@ Some layout issues. Just a skill issue on my part.
 
 Create an issue in the Issues tab of this repository if you encounter any functionality issues that are not listed above.
 
-Contact me on Discord if you prefer that: My username: arp_cache
+Contact me on Discord if you prefer that: My username: you_have_been_hacked
 
 
 
